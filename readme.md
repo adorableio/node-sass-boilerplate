@@ -34,8 +34,7 @@ If you only want to add to this project:
 
 
 #### Set up skeleton project framework
-* `$ mkdir public` - at the root of the project, crate a new 'public' directory
-* `$ mkdir public/stylesheets` - create stylesheets directory within the public directory
+* `$ mkdir -p public/stylesheets` - at the root of the project
 
 
 #### Get the app started and create a server
